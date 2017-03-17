@@ -1,0 +1,78 @@
+.container{
+    width: auto;
+    height: 500px;   
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    width: 1000px;
+    height: 150px;
+    background-color: #e4e4e4;
+    margin: auto;
+    
+}
+
+.bigbox{
+    
+        background: #ccc;
+    height:406px ;
+    width: 300px;
+    float: left;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+
+
+.inner3{
+    height: 300px;
+    width: 150px;
+    border-right: dotted 2px #ccc;
+    padding: 20px 20px 0 20px;
+    float: left;
+    
+}
+.inner3_last{
+    height: 300px;
+    width: 150px;
+    padding: 20px 20px 0 20px;
+    float: left;
+    
+}
+
+.inneremptybox3{
+     height: 100px;
+    width: 150px;
+    
+}
+
+.inneremptybox3_1{
+     height: 83px;
+    width: 150px;
+    
+}
+
+.innerbox3{
+     height: 100px;
+    width: 150px;
+    background: #ccc;
+}
+
+
+.ad{
+    
+    width: 300px;
+    background-color: #FFFFFF;
+    color: #0165A7;
+    font-family: Georgia;
+    font-size: 1em;
+    padding: 0px 0px 0px 10px;
+    border-bottom: solid 15px #0165A7;
+    margin-left: 400px;
+    margin-top: -20px;
+    position: absolute;
+        
+    
+}
